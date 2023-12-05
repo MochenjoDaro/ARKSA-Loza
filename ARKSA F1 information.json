@@ -1,0 +1,52 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 45,
+        "IconURL": "https://i.imgur.com/GiR0FX5.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Witamy na serwerze Loży Szyderców",
+          "text1": "Mamy nadzieję, że serwer przypadnie wam do gustu.\n\Ustawienia serwera:\Xp-x2\Harvesting-x3\Taming-x3\Mature Speed-x10, Egg Hatching-x15",
+          "imageurl": "https://i.imgur.com/GiR0FX5.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Sklep",
+          "title1": "Instrukcja:",
+          "text1": "brak",
+          "title2": "brak",
+          "text2": "brak.",
+          "imageurl": "https://i.imgur.com/GiR0FX5.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/jJnHNeUHcV"
+        }
+      },
+      {
+        "link2": {
+          "text": "ARK-Servers",
+          "url": "https://ark-servers.net/server/354937/"
+        }
+      }
+    ]
+  }
+}
